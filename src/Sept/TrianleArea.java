@@ -10,7 +10,7 @@ public class TrianleArea {
         if (a == b && b == c && a == c){
             System.out.println("This is eaquivalent traingle");
         }
-        else if ( a>b && c>b && a==c || a==c){
+        else if ( a>b && c>b  || a==c){
 
             System.out.println("This is isolosic traingle");
         }
