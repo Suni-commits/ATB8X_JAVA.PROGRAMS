@@ -9,7 +9,7 @@ public class CompareThree {
         int g= (a > b)
                 ? ((a > c) ? a : c)
                 : ((b > c) ? b : c);
-        System.out.println("The maximum number amoing three nmberds; " + g);
+        System.out.println("The maximum number among three numbers; " + g);
 
 
     }
