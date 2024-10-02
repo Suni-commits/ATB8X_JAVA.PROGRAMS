@@ -12,6 +12,7 @@ public class Lab0025 {
             {
                 System.out.println("* ");
             }
+
             System.out.println();
         }
 
