@@ -28,12 +28,13 @@ public class secondExample {
         {
            System.out.println(x);
         }*/
-
-        Iterator it=al.iterator();
+            al.remove(3);
+            System.out.println(al);
+      /*  Iterator it=al.iterator();
         while(it.hasNext())
         {
             System.out.println(it.next());
-        }
+        }*/
 
     }
 }
