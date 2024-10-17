@@ -1,4 +1,4 @@
-package Oct.EnumOct16;
+package Oct.Enumprograms;
 
 public class WeekDays {
     public enum WeekDay {
